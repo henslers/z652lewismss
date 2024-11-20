@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 date,Date Created,
-description,Description,
+description,Transcription,
 people,People,true
 location,Location
 latitude,Latitude
